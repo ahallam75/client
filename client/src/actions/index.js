@@ -8,7 +8,7 @@ import {
   DELETE_STREAM,
   EDIT_STREAM
 } from "./types";
-import { async } from "q";
+//import { async } from "q"; // Remove?
 
 export const signIn = userId => {
   return {
