@@ -12,7 +12,7 @@
     },
     {
       "title": "New stream",
-      "description": "Really new stream",
+      "description": "Refactored!",
       "userId": "109230970837070559741",
       "id": 3
     },
@@ -21,6 +21,11 @@
       "description": "You should not see this on the from page!!!",
       "userId": "109230970837070559741",
       "id": 4
+    },
+    {
+      "title": "Me streaming component reuse.",
+      "description": "This has been edited!",
+      "id": 5
     }
   ]
 }
